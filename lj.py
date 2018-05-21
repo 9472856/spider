@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+#需要安装requests
 #url = "https://python123.io/ws/demo.html"
 url = "https://sh.lianjia.com/ershoufang/rs"
 #url = "https://www.amazon.cn/gp/product/B01M8L5Z3Y"
